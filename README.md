@@ -29,7 +29,7 @@ smwhh14
   - Design entiwickeln
 
 
-### Full setup
+## Full setup
 
 Some reveal.js features, like external markdown and speaker notes, require that presentations run from a local web server. The following instructions will set up such a server as well as all of the development tasks needed to make edits to the reveal.js source code.
 
@@ -37,9 +37,9 @@ Install [Node.js](http://nodejs.org/)
 
 Install [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
 
-Navigate to the reveal.js folder
+Navigate to the smwhh14 folder
 ```sh
-$ cd reveal.js
+$ cd smwhh14
 ```
 
 Install dependencies
