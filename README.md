@@ -1,5 +1,8 @@
 smwhh14
 =======
+## Grundsätzliches
+
+- 30 Minuten Präsentation / 60 Minuten Workshop
 
 ## Grundstruktur der Praesentation:
 
