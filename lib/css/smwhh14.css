@@ -1,0 +1,13 @@
+#akra-logo {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  display: block;
+  max-width: 184px;
+  width: 10%;
+  height: 64px;
+  background-image: url('../images/akra-logo.gif');
+  background-position-y: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
