@@ -13,7 +13,7 @@ smwhh14
   - wie machen das andere Branchen? (Auto, Mode, ...)
 - Arten von Prototyping
 - Vorstellung fehlgeschlagene Prototypen
---- Workshop ---
+- -- Workshop --
 - potentielle naechste Schritte nach dem Prototyping
   - Businesslogik entwickeln
   - Design entiwickeln
