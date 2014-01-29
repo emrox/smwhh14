@@ -3,6 +3,7 @@ smwhh14
 ## Grundsätzliches
 
 - 30 Minuten Präsentation / 60 Minuten Workshop
+- Workshop-Bereiche timeboxen
 
 ## Grundstruktur der Praesentation:
 
@@ -12,6 +13,10 @@ smwhh14
   - wie machen das andere Branchen? (Auto, Mode, ...)
 - Arten von Prototyping
 - Vorstellung fehlgeschlagene Prototypen
+--- Workshop ---
+- potentielle naechste Schritte nach dem Prototyping
+  - Businesslogik entwickeln
+  - Design entiwickeln
 
 ## Danach Prototyping am Beispiel
 
@@ -27,10 +32,6 @@ smwhh14
 
 - Entwickelte Prototypen vorstellen
   - auf einen oder zwei Vorstellen
-- potentielle naechste Schritte nach dem Prototyping
-  - Businesslogik entwickeln
-  - Design entiwickeln
-
 
 ## Full setup
 
