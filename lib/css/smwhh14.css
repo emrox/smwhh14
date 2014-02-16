@@ -11,3 +11,12 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+table.about-us {
+  width: 100%;
+}
+
+table.about-us td {
+  width: 33%;
+  text-align: center
+}
