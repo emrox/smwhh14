@@ -20,3 +20,7 @@ table.about-us td {
   width: 33%;
   text-align: center
 }
+
+ul.no-bullet {
+  list-style: none;
+}
