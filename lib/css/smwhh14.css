@@ -24,3 +24,7 @@ table.about-us td {
 ul.no-bullet {
   list-style: none;
 }
+
+p.text-left {
+  text-align: left;
+}
