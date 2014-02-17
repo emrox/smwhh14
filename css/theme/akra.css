@@ -201,3 +201,7 @@ img {
 
 .reveal .progress {
   height: 10px; }
+
+.reveal .source {
+  font-size: 15px;
+}
