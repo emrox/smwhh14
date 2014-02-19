@@ -1,0 +1,32 @@
+Natürlich wollen wir euch eigentlich nicht nur mit der Theorie behelligen...
+
+Und sicherlich habt ihr euch auch schon gefragt, warum stehen die ganzen Tüten hier?
+
+Ja ganze genau, wir wollen das ganze auch mal in der Praxis erleben und wie Stefan ja auch schon erwähnt hat, kann beim Paper Prototyping jeder mitmachen, der Schere, Papier und Stifte hat...
+
+Wir haben da auch schon mal was vorbereitet...
+Aber bevor wir dazu kommen ein paar grundsätzliche Dinge, die man so bei einer Prototyping-Session bedenken sollte.
+
+SLIDE
+
+- Timebox - vorher eine Zeit(spanne) festlegen, nach der das Ergebnis feststehen soll.
+- Es redet nur einer gleichzeitig
+- Farben für Actions festlegen.
+  z.B. Klickbare Elemente sind Grün, Pflichtfelder sind Blau und Optionale Felder sind grün. Fehler rot.
+- Nicht zu detailliert, es geht um eine Idee und nicht ein finales Design.
+
+SLIDE
+
+Und jetzt einmal die Situation, die ein typischer Anwendungsfall. (Und bei uns alltäglich :))
+
+Ein Kunde kommt:
+
+Kunde: "Ich brauche eine iPhone-App, bei der Männer ihre Mode kaufen können."
+Wir: "Also eigentlich ein Zalando - aber nur für Männer."
+Kunde: "JA GENAU!"
+
+Nun geht es mit dem Kunden zusammen ein gemeinsames und realistisches Bild davon zu entwickeln, wie diese iPhone-App denn aussehen soll. Hier bietet sich Paper-Prototyping sehr an, da man dann gemeinse Ideen und Bedenken besprechen und direkt veranschaulichen kann.
+
+Wir haben uns im Vorfeld schon einmal Gedanken gemacht, wie das ganze aussehen könnte.
+
+--> Schauspiel
